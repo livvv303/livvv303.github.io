@@ -2,7 +2,7 @@ body {
     background: rgb(255, 185, 221);
     color: rgb(45, 45, 45);
     padding: 10px;
-    font-family: cursive, sans-serif;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
 }
 
 #all-contents {
